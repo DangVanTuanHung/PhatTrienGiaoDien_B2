@@ -22,7 +22,7 @@ function App() {
 
       <button onClick={Click}>Click</button>
       <br />
-      <span>Hello  {name}</span>
+      <span>Hello {name}</span>
     </>
   )
 }
